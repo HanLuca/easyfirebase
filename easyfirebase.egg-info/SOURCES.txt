@@ -1,0 +1,9 @@
+LICENCE.txt
+README.md
+setup.py
+easyfirebase/__init__.py
+easyfirebase/easyfirebase.py
+easyfirebase.egg-info/PKG-INFO
+easyfirebase.egg-info/SOURCES.txt
+easyfirebase.egg-info/dependency_links.txt
+easyfirebase.egg-info/top_level.txt
