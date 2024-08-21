@@ -1,6 +1,11 @@
 import firebase_admin
 from firebase_admin import credentials, db, storage
 
+"""
+2024.08.21 New Project
+Easy use Firebase Module
+"""
+
 class EasyFirebase:
     def __init__(self, database_url, credentials_file):
         """
@@ -40,6 +45,7 @@ class EasyFirebase:
         Load data from the specified path in the Firebase Realtime Database.
 
         Parameters:
+        
         path -- The path in the database to load the data from (str)
 
         Returns:
